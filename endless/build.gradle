@@ -16,7 +16,7 @@ group 'com.commonsware.cwac'
 
 repositories {
     maven {
-        url "https://repo.commonsware.com.s3.amazonaws.com"
+        url "http://repo.commonsware.com.s3.amazonaws.com"
     }
 }
 
